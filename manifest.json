@@ -2,7 +2,7 @@
   "name": "TaskFlow",
   "short_name": "TaskFlow",
   "description": "مدیریت تسک، تقویم، پومودورو، یادداشت و مالی",
-  "start_url": "./taskflow.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
